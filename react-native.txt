@@ -1,0 +1,3 @@
+1. Views only take as much space . as they need to fit their content into themselves.
+
+2. Now, the first value of bind actually sets the this value, so it sets the value to which the this keyword would refer in this function. And since we're not using this keyword here, this does not matter at all, so we'll just set it to this. But the second value is then the first parameter received by that function.
