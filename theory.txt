@@ -3,3 +3,4 @@
 2. Now, the first value of bind actually sets the this value, so it sets the value to which the this keyword would refer in this function. And since we're not using this keyword here, this does not matter at all, so we'll just set it to this. But the second value is then the first parameter received by that function.
 
 3. text component can not do border texts can't receive borders
+4. flat list east component, you wanna use if you have a potentially very long list of items, because that component will give you a scrollable list of elements, and it will also help with performance.
